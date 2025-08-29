@@ -1,4 +1,4 @@
-macro layout: define overall content flow and structure of the page
+<!-- macro layout: define overall content flow and structure of the page
     how do these multiple articles fit together on a single page? where does navigation go?
 micro layout: only cover small portion of screen, may be re-used multiple times in single page
     how does this icon and associated title sit next to each other? what about an image and its caption?
@@ -130,4 +130,4 @@ if want item to occupy just row 3 across span of col 1,2,3:
         grid-column: 1 / 4;
     }
     NOTICE end number is 4 to go to the 3rd column (means END AT START OF 4TH COLUMN)
-
+ -->
